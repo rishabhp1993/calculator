@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.display{
+  padding:5px;
+  width:300px;
+  box-sizing: border-box;;
+  height:40px;
+  background-color: #dddddd;
+  text-align: right;
+}
+
+.digits
+{
+  line-height:30px;
+  font-size:30px;
+  color:black;
+}
+
+.keypad{
+  width:300px;
+  padding:0px;
+  margin:0px;
+
+}
+.key{
+  width:100px;
+  font-size:20px;
+  height:40px;
+  background-color: white;
+
+}
